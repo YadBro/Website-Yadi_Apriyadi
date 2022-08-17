@@ -2,6 +2,8 @@
 
 Website ini menceritakan perjuang soekarno dan hatta sehingga bisa memerdekakan indonesia dan membacakan teks proklamasi di depan semua rakyatnya
 
+[Link-Website](https://website-yadi-apriyadi.netlify.app/)
+
 ## Pengumpulan Lomba CuyUniverse 
 
 | Title        |   | Description                    |   
