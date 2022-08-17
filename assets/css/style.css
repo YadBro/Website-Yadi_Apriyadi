@@ -23,7 +23,7 @@ nav {
 
 nav ul {
   display: flex;
-  width: 24%;
+  width: 25%;
   font-size: 18px;
   list-style: none;
   justify-content: space-between;
@@ -33,6 +33,12 @@ nav ul {
 nav ul li a {
   color: black;
   text-decoration: none;
+  transition: .2s;
+}
+
+nav ul li a:hover {
+  font-size: 20px;
+  font-weight: 600;
 }
 
 .logo {
