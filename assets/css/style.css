@@ -39,8 +39,12 @@ nav ul li a {
 nav ul li a:hover {
   font-size: 20px;
   font-weight: 600;
+  color: red;
 }
 
+h2 {
+  color: red;
+}
 .logo {
   width: 30%;
 }
