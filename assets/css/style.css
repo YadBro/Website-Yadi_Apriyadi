@@ -1,3 +1,7 @@
+:root {
+  --red: red;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -99,6 +103,13 @@ header {
 #about-me {
   margin: 80px auto;
   text-align: center;
+}
+
+footer {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+  color: var(--red);
 }
 
 @keyframes brand-image {
